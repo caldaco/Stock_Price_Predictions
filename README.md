@@ -15,7 +15,7 @@ By leveraging Python libraries and data from Yahoo Finance, the notebook explore
 
 ---
 
-## ools & Libraries
+## Tools & Libraries
 - **Data Source:** `yfinance`
 - **Data Analysis:** `pandas`
 - **Modeling:** `scikit-learn`
